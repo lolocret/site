@@ -78,7 +78,7 @@ Le site sera accessible sur http://localhost:1313
 hugo
 ```
 
-Les fichiers statiques seront générés dans le dossier `/public/`
+Les fichiers statiques sont générés dans le dossier `/public/`
 
 ## Pourquoi Hugo et un site statique ?
 
@@ -88,13 +88,6 @@ Les fichiers statiques seront générés dans le dossier `/public/`
 4. **Portabilité** : Hébergeable gratuitement (GitHub Pages, Netlify, Vercel)
 5. **Autonomie** : Propriété complète des données et de l'infrastructure
 
-## Prochaines étapes
-
-1. Remplir les 3 templates d'articles de veille avec du contenu réel
-2. Ajouter des fiches outils (ex: Blender, Unreal Engine, Midjourney)
-3. Documenter des cas d'inspiration (portfolios, campagnes)
-4. Configurer le déploiement sur GitHub Pages
-5. Personnaliser le thème (couleurs, typographie)
 
 ## Compétences développées
 
