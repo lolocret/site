@@ -3,7 +3,7 @@ title: "How Is 3D Used in Fashion to Transform the Industry? - Article de veille
 date: 2025-01-15
 image: images/3D.jpeg
 draft: false
-tags: ["veille", "3D", "CGI", "character-design", "wearable"]
+tags: ["veille", "3D", "CGI", "character-design", "wearable", "workflow", "tendances"]
 ---
 
 ## Contexte & source
@@ -50,4 +50,3 @@ Elle clarifie les impacts sur la chaine de production, la prise de decision et l
 - Benchmark technique
 - Base pour un article de blog
 - Reference pour une presentation
-

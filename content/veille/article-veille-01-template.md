@@ -3,7 +3,7 @@ title: "G.URL Magazine Issue 02: Exclusive Interview Preview with Gabrielle Rose
 date: 2023-12-03
 image: images/gaby.png
 draft: false
-tags: ["veille", "3D", "CGI", "character-design", "wearable", "illustration", "branding"]
+tags: ["veille", "3D", "CGI", "character-design", "wearable", "illustration", "branding", "creativite", "storytelling", "marketing"]
 ---
 
 ## Contexte & source
@@ -51,4 +51,3 @@ Elle invite a analyser comment un univers graphique soutient une marque personne
 - Moodboard visuel
 - Base pour un article de blog
 - Reference pour une presentation
-

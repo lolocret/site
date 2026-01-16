@@ -3,7 +3,7 @@ title: "The use of CGI in the fashion industry - Article de veille"
 date: 2025-09-12
 image: images/cgi.webp
 draft: false
-tags: ["veille", "3D", "CGI", "character-design", "wearable"]
+tags: ["veille", "3D", "CGI", "character-design", "wearable", "rendering", "pipeline", "marketing"]
 ---
 
 ## Contexte & source
@@ -51,4 +51,3 @@ Elle donne des arguments concrets sur les impacts couts, delais et empreinte env
 - Argumentaire pour un client
 - Base pour un article de blog
 - Reference pour une presentation
-
