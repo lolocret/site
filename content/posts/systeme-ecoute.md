@@ -55,22 +55,20 @@ Ces plateformes me permettent de couvrir trois niveaux complémentaires :
 ### Newsletters ciblées
 
 - **Design & création visuelle**
-  - It’s Nice That Newsletter → https://www.itsnicethat.com/newsletter  
+  - It’s Nice That Newsletter → https://www.itsnicethat.com/newsletters
   Sélections de projets créatifs, direction artistique, tendances visuelles et culture design.
 
-  - Designboom Newsletter → https://www.designboom.com/newsletter/  
+  - Designboom Newsletter → https://www.designboom.com/newsletter-subscribe/
   Actualités sur le design produit, la mode, l’architecture et l’innovation visuelle.
 
 - **CGI / 3D / VFX**
-  - 80 Level Newsletter → https://80.lv/newsletter/  
+  - 80 Level Newsletter → https://80.lv/ 
   Articles techniques, interviews d’artistes 3D, workflows professionnels.
 
-  - CG Channel Newsletter → https://www.cgchannel.com/newsletter/  
+  - CG Channel Newsletter → https://www.cgchannel.com/welcome-to-the-newsletter/
   Actualités sur l’animation, le VFX, les studios et les pipelines CGI.
 
 - **Digital fashion & wearable**
-  - SYKY Newsletter → https://www.syky.com/  
-  Mode digitale, créateurs hybrides, projets fashion-tech et futur de la mode.
 
   - The Fabricant Newsletter → https://www.thefabricant.com/  
   Références majeures en mode numérique, vêtements 3D et expérimentations créatives.
