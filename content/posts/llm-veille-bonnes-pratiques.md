@@ -3,7 +3,7 @@ title: "Utilisation des LLM pour la veille : comment ne pas se faire piéger"
 date: 2026-01-15
 image: images/llm.jpg
 draft: false
-tags: ["LLM", "méthodologie", "veille", "intelligence-artificielle"]
+tags: ["IA", "méthodologie", "veille"]
 ---
 
 ## Qu'est-ce qu'un LLM ?
@@ -75,7 +75,7 @@ Organisez vos ressources dans une structure pérenne :
 - `/outils/` – fiches techniques
 - `/inspiration/` – cas créatifs
 
-Avec des **tags** systématiques : `#3D`, `#wearable`, `#character-design`, `#IA-generative`, etc.
+Avec des **tags** systématiques : `#3D`, `#wearable`, `#character-design`, `#IA`, etc.
 
 ## Conclusion
 

@@ -3,7 +3,7 @@ title: "Mon système d'écoute : Comment je structure ma veille"
 date: 2026-01-15
 image: images/monde.jpeg
 draft: false
-tags: ["méthodologie", "veille", "organisation", "intelligence-artificielle"]
+tags: ["méthodologie", "veille", "organisation", "IA"]
 ---
 
 Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine 
@@ -190,7 +190,7 @@ C’est une solution que j’envisage pour faire évoluer mon système à l’av
 - `#3D`, `#CGI`, `#character-design`, `#illustration`, `#wearable`, `#branding`
 
 **Technologie**
-- `#Blender`, `#Unreal-Engine`, `#IA-generative`, `#pipeline`, `#rendering`
+- `#Blender`, `#Unreal-Engine`, `#IA`, `#pipeline`, `#rendering`
 
 **Thématique**
 - `#tendances`, `#workflow`, `#marketing`, `#storytelling`

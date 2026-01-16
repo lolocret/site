@@ -53,7 +53,7 @@ Pour organiser la veille et retrouver l'information, j'utilise des taxonomies si
 `3D`, `CGI`, `character-design`, `illustration`, `wearable`, `branding`
 
 ### Technologie
-`Blender`, `Unreal-Engine`, `IA-generative`, `pipeline`, `rendering`
+`Blender`, `Unreal-Engine`, `IA`, `pipeline`, `rendering`
 
 ### Thematique
 `tendances`, `workflow`, `marketing`, `storytelling`
