@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligence on Lolocret</title>
+    <link>http://localhost:1313/site/tags/intelligence/</link>
+    <description>Recent content in Intelligence on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/tags/intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système d&#39;écoute : Comment je structure ma veille</title>
+      <link>http://localhost:1313/site/posts/systeme-ecoute/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/posts/systeme-ecoute/</guid>
+      <description>&lt;p&gt;Cette page décrit concrètement &lt;strong&gt;comment j&amp;rsquo;écoute le monde&lt;/strong&gt; sur mon domaine (3D, CGI, character design, mode wearable).&lt;/p&gt;&#xA;&lt;p&gt;Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

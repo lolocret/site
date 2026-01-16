@@ -3,7 +3,7 @@ title: "Mon système d'écoute : Comment je structure ma veille"
 date: 2026-01-15
 image: images/monde.jpeg
 draft: false
-tags: ["méthodologie", "veille", "organisation"]
+tags: ["méthodologie", "veille", "organisation", "intelligence-artificielle"]
 ---
 
 Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine (3D, CGI, character design, mode wearable).  
