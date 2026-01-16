@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligence-Artificielle on Lolocret</title>
+    <link>http://localhost:1313/tags/intelligence-artificielle/</link>
+    <description>Recent content in Intelligence-Artificielle on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/intelligence-artificielle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilisation des LLM pour la veille : comment ne pas se faire piéger</title>
+      <link>http://localhost:1313/posts/llm-veille-bonnes-pratiques/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/llm-veille-bonnes-pratiques/</guid>
+      <description>&lt;h2 id=&#34;quest-ce-quun-llm-&#34;&gt;Qu&amp;rsquo;est-ce qu&amp;rsquo;un LLM ?&lt;/h2&gt;&#xA;&lt;p&gt;Un &lt;strong&gt;Large Language Model&lt;/strong&gt; (LLM) comme ChatGPT, Claude ou Gemini est un modèle d&amp;rsquo;intelligence artificielle entraîné sur de grands corpus de textes pour produire des réponses probabilistes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,143 @@
+{{ define "main" }}
+{{- partial "content/breadcrumb.html" . -}}
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+      
+      <h1 id="title" class="text-4xl font-bold leading-normal">{{ .Title }}</h1>
+
+      {{- with .Params.description }}
+      <div id="lead" class="my-6">
+        <p class="font-bold">{{ . }}</p>
+      </div>
+      {{- end }}
+
+      {{- if or (eq .Section "posts") (eq .Section "veille") }}
+      <div id="writer" class="flex items-center space-x-4">
+
+        {{- $author := .Site.Params.author -}}
+        {{- $authorName := "" -}}
+        {{- $authorAvatar := "" -}}
+        {{- with $author }}
+          {{- $authorName = .name -}}
+          {{- $authorAvatar = .avatar -}}
+        {{- end }}
+
+        {{- if $authorAvatar }}
+        <img class="w-12 h-12 bg-black rounded-full" src="{{ $authorAvatar | absURL }}" alt="{{ $authorName }} avatar">
+        {{- end }}
+        
+        <ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+          {{- if $authorName }}
+          <li class="font-semibold my-2">{{ $authorName }}</li>
+          {{- end }}
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            {{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
+            {{- $dateHuman := .Date | time.Format ":date_long" -}}
+            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            {{ .ReadingTime }} min read
+          </li>
+        </ul>
+
+      </div>
+      {{- end }}
+      
+    </header>
+
+    {{- if or .Params.image (isset .Params "caption") }}
+    <figure id="featureimage" class="rounded-xl aspect-video">
+
+      {{- if .Params.image }}
+
+        {{- if ( strings.HasPrefix .Params.image "http" ) }}
+
+          <img class="rounded-lg" src="{{ .Params.image }}" alt="{{ .Params.title }}">
+
+        {{- else }}
+
+          {{- with $image := resources.Get .Params.image }}
+            {{- $image := $image.Resize "1600x q95" }}
+            <img class="rounded-lg" src="{{ $image.Permalink }}" alt="{{ .Params.title }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+          {{- end }}
+
+        {{- end }}
+
+      {{- end }}
+
+      {{- if ( isset .Params "caption" ) }}
+        <figcaption class="text-center italic text-xs">{{ .Params.caption }}</figcaption>
+      {{- end }}
+
+    </figure>
+    {{- end }}
+
+    <div id="content" class="mb-14">
+      <!-- Content -->
+
+      {{- .Content -}}
+
+      <!-- Tags list -->
+
+      {{- partial "terms.html" (dict "taxonomy" "tags" "page" .) -}}
+
+    </div>
+
+    {{- if eq .Section "posts" }}
+    <footer id="content-footer" class="not-prose">
+
+      {{- if .Site.Config.Services.Disqus.Shortname }}
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+        <h2 class="text-xl font-semibold">Comment</h2>
+        {{- /* template "_internal/disqus.html" . */ -}}
+      </div>
+      {{- end }}
+
+      {{- with .Site.Params.author }}
+      {{- if or .name .bio .avatar }}
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl">
+        {{- if .avatar }}
+        <img class="w-20 h-20 rounded-full" src="{{ .avatar | absURL }}" alt="{{ .name }}">
+        {{- end }}
+        {{- if .name }}
+        <h2 class="text-xl font-bold my-4">Written by : {{ .name }}</h2>
+        {{- end }}
+        {{- if .bio }}
+        <p class="mb-4">{{ .bio }}</p>
+        {{- end }}
+      </div>
+      {{- end }}
+      {{- end }}
+
+      {{- $related := .Site.RegularPages.Related . | first 2 -}}
+      {{- with $related }}
+      <div id="related-post" class="">
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {{- range . }}
+          {{- partial "content/card.html" . -}}
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+
+    </footer>
+    {{- end }}
+
+  </article>
+
+  <!-- Aside -->
+  <aside class="md:col-span-1">
+
+    {{- partial "content/aside.html" . -}}
+    
+  </aside>
+
+</div>
+  
+{{ end }}
