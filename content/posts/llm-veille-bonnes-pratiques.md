@@ -3,7 +3,7 @@ title: "Utilisation des LLM pour la veille : comment ne pas se faire piéger"
 date: 2026-01-15
 image: images/llm.jpg
 draft: false
-tags: ["IA", "méthodologie", "veille"]
+tags: ["veille", "méthodologie", "IA"]
 ---
 
 ## Qu'est-ce qu'un LLM ?
