@@ -65,9 +65,9 @@ Pour chaque ressource, identifiez explicitement quelle(s) compétence(s) du Futu
 - Etc.
 
 ### 3. Projeter l'utilisation future
-Notez concrètement : "Cette ressource me servira pour [projet X], dans le contexte de [Y]."
+Notez concretement a quel projet ou usage cette ressource servira, et pourquoi.
 
-**Exemple** : "Cette étude sur les pipelines 3D temps réel me sera utile pour mon TB sur l'optimisation de workflows CGI pour la mode."
+**Exemple** : "Cette etude sur les pipelines 3D temps reel me sera utile pour mon TB sur l'optimisation de workflows CGI pour la mode."
 
 ### 4. Classer dans une bibliothèque personnelle
 Organisez vos ressources dans une structure pérenne :
