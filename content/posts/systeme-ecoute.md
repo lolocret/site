@@ -21,8 +21,6 @@ Mon système de veille s'appuie sur plusieurs canaux complémentaires :
 - **SYKY (https://www.syky.com/)** : magazine et plateforme dédiée à la *digital fashion*, aux créateurs hybrides, aux nouvelles formes de mode numérique, aux interviews et aux visions prospectives sur la mode du futur  
 - **Dribbble** : explorations visuelles rapides, motion design, illustration et expérimentations graphiques  
 - **The Dots** : réseau professionnel créatif, découverte de talents émergents, projets artistiques et collaborations  
-- **Figma Community** : prototypes créatifs, interfaces expérimentales, outils collaboratifs et recherches design  
-
 - **Instagram** : comptes d'artistes, studios, marques fashion-tech, créateurs wearable  
 
   J’ai créé un compte Instagram dédié à ma veille créative :  
@@ -33,7 +31,6 @@ Mon système de veille s'appuie sur plusieurs canaux complémentaires :
   Cela me permet de transformer un réseau social en véritable outil de recherche visuelle et de séparer clairement veille professionnelle et usage personnel.
 
 - **Pinterest** : boards thématiques pour la recherche esthétique, les moodboards et l’exploration de styles visuels  
-- **Designspiration** : banque d’inspiration visuelle classée par styles, couleurs et compositions  
 
 Ces plateformes me permettent de couvrir trois niveaux complémentaires :
 - l’**inspiration visuelle** (ArtStation, Pinterest, Designspiration, Instagram),  
@@ -41,42 +38,99 @@ Ces plateformes me permettent de couvrir trois niveaux complémentaires :
 - la **projection vers la mode et la création numérique du futur** (SYKY, Figma Community).
 
 ### News & blogs spécialisés
-- Blogs et sites sur la 3D/CGI (techniques, outils, workflows)  
-- Publications fashion-tech et digital fashion  
-- Médias spécialisés sur le design de produits et accessoires  
+- **3D / CGI**
+  - ArtStation (https://www.artstation.com/) – actualités, interviews et contenu pour artistes 3D  
+  - 80 Level (https://80.lv/) – contenus techniques, workflows et interviews pour professionnels 3D  
+
+- **Fashion-tech & digital fashion**
+  - SYKY Magazine (https://www.syky.com/) – tendances, interviews et projets en fashion tech  
+  - The Fabricant Blog (https://www.thefabricant.com/blog) – insights sur la mode digitale et les outils créatifs  
+  - Digital Fashion Week NY (https://www.digitalfashionweek.xyz/press) – ressources et newsletters orientées mode numérique  
+  - Vogue Business – Fashion & Technology (https://www.vogue.com/business/technology) – analyses sur technologie et mode  
+
+- **Design produit & accessoires**
+  - Designboom (https://www.designboom.com/) – magazine sur le design et la culture visuelle  
+  - It’s Nice That (https://www.itsnicethat.com/) – projets créatifs, design visuel et inspiration   
 
 ### Newsletters ciblées
-- Design  
-- CGI et effets visuels  
-- Digital fashion et technologies wearable  
-- Nouvelles pratiques créatives  
+
+- **Design & création visuelle**
+  - It’s Nice That Newsletter → https://www.itsnicethat.com/newsletter  
+  Sélections de projets créatifs, direction artistique, tendances visuelles et culture design.
+
+  - Designboom Newsletter → https://www.designboom.com/newsletter/  
+  Actualités sur le design produit, la mode, l’architecture et l’innovation visuelle.
+
+- **CGI / 3D / VFX**
+  - 80 Level Newsletter → https://80.lv/newsletter/  
+  Articles techniques, interviews d’artistes 3D, workflows professionnels.
+
+  - CG Channel Newsletter → https://www.cgchannel.com/newsletter/  
+  Actualités sur l’animation, le VFX, les studios et les pipelines CGI.
+
+- **Digital fashion & wearable**
+  - SYKY Newsletter → https://www.syky.com/  
+  Mode digitale, créateurs hybrides, projets fashion-tech et futur de la mode.
+
+  - The Fabricant Newsletter → https://www.thefabricant.com/  
+  Références majeures en mode numérique, vêtements 3D et expérimentations créatives.
+
+- **Nouvelles pratiques créatives & IA**
+  - Creative AI Newsletter (ex : Runway, Stability, etc.)  
+  Pour suivre l’évolution des outils créatifs basés sur l’IA, les nouvelles formes de création visuelle et les usages hybrides entre art et technologie.
+
 
 ### Flux RSS, réseaux sociaux et notifications
 
 - **Instagram (compte dédié : https://www.instagram.com/lolacrex/ )**  
-  J’utilise mon compte Instagram de veille pour observer directement ce que publient les artistes, studios et créateurs que je suis.  
-  Grâce aux notifications, je vois quand un compte important poste un nouveau projet, une image ou une expérimentation.  
-  Cela me permet d’avoir une veille très “vivante”, basée sur la production réelle des créatifs.
+  J’utilise mon compte Instagram comme un outil de veille visuelle actif.  
+  Je mets des notifications sur certains comptes clés, par exemple :
+  - artistes 3D indépendants,
+  - studios CGI,
+  - créateurs de mode digitale,
+  - projets de fashion-tech.  
 
-- **Newsletters de plateformes spécialisées (comme SYKY)**  
-  Je m’inscris aux newsletters de plateformes comme SYKY pour recevoir :
-  - des sélections de projets,
-  - des interviews,
-  - des tendances émergentes en mode digitale et création hybride.  
-  C’est une veille plus éditorialisée, qui complète bien Instagram.
+  Cela me permet de voir immédiatement quand un nouveau projet est publié et de rester connectée à la production réelle des créatifs, en temps quasi réel.
+
+---
+
+- **Newsletters de plateformes spécialisées**
+  Je suis notamment :
+  - **SYKY Newsletter** → https://www.syky.com/  
+    Pour les tendances en digital fashion, les interviews et les projets hybrides.
+  - **The Fabricant Newsletter** → https://www.thefabricant.com/  
+    Pour la mode numérique, les vêtements 3D et les expérimentations créatives.
+  - **80 Level Newsletter** → https://80.lv/newsletter/  
+    Pour les workflows techniques, la 3D et les pipelines professionnels.
+
+  Ces newsletters m’apportent une veille plus éditorialisée et analytique.
+
+---
 
 - **Flux RSS (via Feedly ou Inoreader)**  
-  Je m’abonne aux blogs et sites que je consulte souvent (3D, CGI, fashion-tech, design) pour recevoir automatiquement leurs nouveaux articles.  
-  Cela m’évite de chercher manuellement l’information et me permet de rester à jour.
+  J’utilise un lecteur RSS pour centraliser automatiquement les nouveaux articles de sites comme :
+  - 80 Level → https://80.lv/  
+  - CG Channel → https://www.cgchannel.com/  
+  - Designboom → https://www.designboom.com/  
+  - It’s Nice That → https://www.itsnicethat.com/  
+  - SYKY → https://www.syky.com/  
 
-- **Chaînes YouTube spécialisées**  
-  Je suis des chaînes pour :
-  - les tutoriels techniques (Blender, Unreal, rendering),
-  - les conférences de studios,
-  - les présentations de pipelines professionnels,
-  - les projets expérimentaux en CGI et mode numérique.  
+  Cela me permet de consulter toute l’actualité créative et technique au même endroit.
 
-  C’est une veille plus approfondie et pédagogique.
+---
+
+- **Chaînes YouTube spécialisées**
+  Je suis par exemple :
+  - **Blender Guru** → https://www.youtube.com/@blenderguru  
+    Tutoriels et compréhension des bases et techniques avancées en Blender.
+  - **CG Cookie** → https://www.youtube.com/@CGCookie  
+    Apprentissage structuré de la 3D et des workflows professionnels.
+  - **The Futur** → https://www.youtube.com/@thefuturishere  
+    Création, direction artistique et réflexion sur le design.
+  - **Corridor Crew** → https://www.youtube.com/@Corridor  
+    Décryptage des effets visuels, CGI et pipelines de production.
+
+  YouTube complète ma veille par une approche plus pédagogique et technique, basée sur l’explication et la démonstration.
 
 ---
 
@@ -116,6 +170,17 @@ Mes vrais critères sont donc :
 ## 4. Organisation simple des ressources
 
 Une grande partie de ma veille visuelle repose sur les systèmes de favoris et de listes, comme sur Pinterest ou Instagram, qui me permettent de sauvegarder immédiatement une image, un projet ou une idée sans casser mon flux créatif.
+
+Je n’utilise pas encore Obsidian de manière active, mais il m’a été présenté pendant le cours *LabVeilleTec* comme un outil pertinent pour centraliser et structurer une base de connaissances personnelle.
+
+Il permettrait par exemple de :
+- regrouper des notes,
+- conserver des résumés d’articles,
+- organiser des liens importants,
+- construire une mémoire de veille plus formelle.
+
+C’est une solution que j’envisage pour faire évoluer mon système à l’avenir, lorsque mon volume de ressources augmentera.
+
 
 ---
 
