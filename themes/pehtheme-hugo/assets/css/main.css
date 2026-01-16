@@ -2284,3 +2284,28 @@ img {
   padding: 1rem 1.1rem;
   color: var(--ink-700);
 }
+
+.glass-nav,
+.glass-card {
+  background: rgba(255, 236, 245, 0.7);
+  border: 1px solid rgba(255, 210, 230, 0.6);
+  box-shadow: 0 18px 40px rgba(255, 160, 200, 0.2);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.glass-nav {
+  border-radius: 1.5rem;
+  padding: 0.75rem 0;
+}
+
+.glass-card:hover {
+  background: rgba(255, 228, 240, 0.85);
+}
+
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .glass-nav,
+  .glass-card {
+    background: rgba(255, 236, 245, 0.95);
+  }
+}
