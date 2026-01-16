@@ -7,6 +7,7 @@ tags: ["méthodologie", "veille", "organisation"]
 ---
 
 Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine (3D, CGI, character design, mode wearable).  
+
 Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.
 
 ## 1. Radar "Temps réel"
@@ -22,17 +23,20 @@ Mon système de veille s'appuie sur plusieurs canaux complémentaires :
 - **Figma Community** : prototypes créatifs, interfaces expérimentales, outils collaboratifs et recherches design  
 
 - **Instagram** : comptes d'artistes, studios, marques fashion-tech, créateurs wearable  
+
   J’ai créé un compte Instagram dédié à ma veille créative :  
   **https://www.instagram.com/lolacrex/**  
-  Il me sert uniquement à suivre des artistes 3D, des studios CGI, des créateurs de mode digitale, des projets de fashion-tech et des univers visuels expérimentaux.  
+
+  Il me sert à suivre des artistes 3D, des studios CGI, des créateurs de mode digitale, des projets de fashion-tech et des univers visuels expérimentaux et poster aussi mes créations.  
+
   Cela me permet de transformer un réseau social en véritable outil de recherche visuelle et de séparer clairement veille professionnelle et usage personnel.
 
 - **Pinterest** : boards thématiques pour la recherche esthétique, les moodboards et l’exploration de styles visuels  
 - **Designspiration** : banque d’inspiration visuelle classée par styles, couleurs et compositions  
 
 Ces plateformes me permettent de couvrir trois niveaux complémentaires :
-- l’**inspiration visuelle** (ArtStation, Pinterest, Designspiration, Dribbble),  
-- l’**observation des pratiques professionnelles** (Behance, The Dots),  
+- l’**inspiration visuelle** (ArtStation, Pinterest, Designspiration, Instagram),  
+- l’**observation des pratiques professionnelles** (Behance, The Dots, Instagram),  
 - la **projection vers la mode et la création numérique du futur** (SYKY, Figma Community).
 
 ### News & blogs spécialisés
@@ -46,10 +50,32 @@ Ces plateformes me permettent de couvrir trois niveaux complémentaires :
 - Digital fashion et technologies wearable  
 - Nouvelles pratiques créatives  
 
-### Flux RSS et réseaux sociaux
-- Flux RSS de blogs techniques et créatifs  
-- Listes thématiques sur X (Twitter) : artistes 3D, studios, chercheurs en CGI  
-- Chaînes YouTube pour les tutoriels et conférences  
+### Flux RSS, réseaux sociaux et notifications
+
+- **Instagram (compte dédié : https://www.instagram.com/lolacrex/ )**  
+  J’utilise mon compte Instagram de veille pour observer directement ce que publient les artistes, studios et créateurs que je suis.  
+  Grâce aux notifications, je vois quand un compte important poste un nouveau projet, une image ou une expérimentation.  
+  Cela me permet d’avoir une veille très “vivante”, basée sur la production réelle des créatifs.
+
+- **Newsletters de plateformes spécialisées (comme SYKY)**  
+  Je m’inscris aux newsletters de plateformes comme SYKY pour recevoir :
+  - des sélections de projets,
+  - des interviews,
+  - des tendances émergentes en mode digitale et création hybride.  
+  C’est une veille plus éditorialisée, qui complète bien Instagram.
+
+- **Flux RSS (via Feedly ou Inoreader)**  
+  Je m’abonne aux blogs et sites que je consulte souvent (3D, CGI, fashion-tech, design) pour recevoir automatiquement leurs nouveaux articles.  
+  Cela m’évite de chercher manuellement l’information et me permet de rester à jour.
+
+- **Chaînes YouTube spécialisées**  
+  Je suis des chaînes pour :
+  - les tutoriels techniques (Blender, Unreal, rendering),
+  - les conférences de studios,
+  - les présentations de pipelines professionnels,
+  - les projets expérimentaux en CGI et mode numérique.  
+
+  C’est une veille plus approfondie et pédagogique.
 
 ---
 
