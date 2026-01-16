@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://lolocret.github.io/site/'
 languageCode = 'en-us'
 title = 'Lolocret'
 theme = 'pehtheme-hugo'
