@@ -27,7 +27,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.116.0"
-          extended: false
+          extended: true
 
       - name: Setup Pages
         id: pages
