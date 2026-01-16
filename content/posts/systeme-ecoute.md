@@ -197,14 +197,24 @@ C’est une solution que j’envisage pour faire évoluer mon système à l’av
 
 ---
 
-## Pourquoi ce système est durable
+## Pourquoi ce système est durable et comment il peut évoluer
 
-Même s’il est simple, ce système est cohérent avec ma réalité :
+Même s’il est simple, ce système est cohérent avec ma réalité actuelle, tout en laissant une vraie place à l’évolution :
 
-1. **Honnête** : il correspond vraiment à ma manière de travailler  
-2. **Flexible** : je peux le structurer davantage plus tard  
-3. **Créatif** : il laisse de la place à l’intuition et à la sensibilité  
-4. **Moderne** : il assume l’usage de l’IA comme outil de veille  
+1. **Honnête** : il correspond vraiment à ma manière de travailler aujourd’hui, sans prétendre utiliser des outils que je n’exploite pas encore.  
+2. **Flexible** : je peux le structurer davantage plus tard, en fonction de mes besoins et de l’augmentation du volume de ressources.  
+3. **Créatif** : il laisse de la place à l’intuition, à la sensibilité visuelle et à la découverte spontanée.  
+4. **Moderne** : il assume l’usage de l’IA comme outil d’exploration et d’ouverture, sans remplacer le regard humain.  
+
+À terme, j’aimerais faire évoluer ce site pour qu’il ne soit plus seulement un espace de collecte, mais aussi un espace de production personnelle.  
+Mon objectif est d’y publier progressivement :
+- des résumés d’articles que je lis,
+- des synthèses courtes,
+- des liens entre différentes ressources,
+- mes propres réflexions.
+
+Ce site pourrait ainsi devenir un véritable carnet de veille structuré, une mémoire de mon parcours créatif, et un projet vivant que je continuerai au-delà de ce cours, en lien avec mon évolution en 3D, CGI, mode digitale et création visuelle.
+
 
 ---
 
