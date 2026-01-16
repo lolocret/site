@@ -6,7 +6,8 @@ draft: false
 tags: ["méthodologie", "veille", "organisation", "intelligence-artificielle"]
 ---
 
-Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine (3D, CGI, character design, mode wearable).  
+Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine 
+(3D, CGI, character design, mode wearable).  
 
 Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.
 
@@ -114,15 +115,7 @@ Mes vrais critères sont donc :
 
 ## 4. Organisation simple des ressources
 
-Je garde volontairement une organisation légère.  
-Chaque ressource conservée comporte :
-
-- **Titre**
-- **Lien**
-- **Source (si disponible)**
-- **Résumé court**
-- **Tags** (ex : `#3D`, `#CGI`, `#wearable`, `#branding`)
-- **Pourquoi je la garde** : ce qu’elle m’apporte (esthétique, technique, conceptuel)
+Une grande partie de ma veille visuelle repose sur les systèmes de favoris et de listes, comme sur Pinterest ou Instagram, qui me permettent de sauvegarder immédiatement une image, un projet ou une idée sans casser mon flux créatif.
 
 ---
 
