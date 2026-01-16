@@ -83,15 +83,8 @@
 
     </div>
 
-    {{- if eq .Section "posts" }}
+    {{- if and (eq .Section "posts") .Site.Config.Services.Disqus.Shortname }}
     <footer id="content-footer" class="not-prose">
-
-      {{- if .Site.Config.Services.Disqus.Shortname }}
-      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
-        <h2 class="text-xl font-semibold">Comment</h2>
-        {{- /* template "_internal/disqus.html" . */ -}}
-      </div>
-      {{- end }}
 
       {{- with .Site.Params.author }}
       {{- if or .name .bio .avatar }}
