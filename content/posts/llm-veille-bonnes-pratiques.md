@@ -65,9 +65,9 @@ Pour chaque ressource, identifiez explicitement quelle(s) compétence(s) du Futu
 - Etc.
 
 ### 3. Projeter l'utilisation future
-Notez concretement a quel projet ou usage cette ressource servira, et pourquoi.
+Notez concretement vers quoi vous voulez vous orienter et en quoi la ressource vous aide a avancer dans cette direction.
 
-**Exemple** : "Cette etude sur les pipelines 3D temps reel me sera utile pour mon TB sur l'optimisation de workflows CGI pour la mode."
+**Exemple** : "Je veux m'orienter vers un parcours en media design (HEAD). La 3D et le CGI sont des axes que je veux approfondir car je ne les ai pas appris dans ma formation ici, et cette ressource m'aide a construire cette orientation."
 
 ### 4. Classer dans une bibliothèque personnelle
 Organisez vos ressources dans une structure pérenne :
