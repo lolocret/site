@@ -6,96 +6,101 @@ draft: false
 tags: ["méthodologie", "veille", "organisation"]
 ---
 
-Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine (3D, CGI, character design, mode wearable). C'est un système pensé pour durer et évoluer au-delà de ce cours.
+Cette page décrit concrètement **comment j'écoute le monde** sur mon domaine (3D, CGI, character design, mode wearable).  
+Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.
 
 ## 1. Radar "Temps réel"
 
 Mon système de veille s'appuie sur plusieurs canaux complémentaires :
 
 ### Plateformes créatives
-- **ArtStation** : portfolios d'artistes 3D, tendances CGI, character design
-- **Behance** : projets de branding, identités visuelles, design de mode
-- **Instagram** : comptes d'artistes, marques fashion-tech, créateurs wearable (organisation en listes thématiques)
-- **Pinterest** : boards thématiques pour la recherche esthétique et les moodboards
+- **ArtStation** : portfolios d'artistes 3D, tendances CGI, qualité des rendus et du character design  
+- **Behance** : projets de branding, identités visuelles, design de mode et direction artistique  
+- **SYKY (https://www.syky.com/)** : magazine et plateforme dédiée à la *digital fashion*, aux créateurs hybrides, aux nouvelles formes de mode numérique, aux interviews et aux visions prospectives sur la mode du futur  
+- **Dribbble** : explorations visuelles rapides, motion design, illustration et expérimentations graphiques  
+- **The Dots** : réseau professionnel créatif, découverte de talents émergents, projets artistiques et collaborations  
+- **Figma Community** : prototypes créatifs, interfaces expérimentales, outils collaboratifs et recherches design  
+
+- **Instagram** : comptes d'artistes, studios, marques fashion-tech, créateurs wearable  
+  J’ai créé un compte Instagram dédié à ma veille créative :  
+  **https://www.instagram.com/lolacrex/**  
+  Il me sert uniquement à suivre des artistes 3D, des studios CGI, des créateurs de mode digitale, des projets de fashion-tech et des univers visuels expérimentaux.  
+  Cela me permet de transformer un réseau social en véritable outil de recherche visuelle et de séparer clairement veille professionnelle et usage personnel.
+
+- **Pinterest** : boards thématiques pour la recherche esthétique, les moodboards et l’exploration de styles visuels  
+- **Designspiration** : banque d’inspiration visuelle classée par styles, couleurs et compositions  
+
+Ces plateformes me permettent de couvrir trois niveaux complémentaires :
+- l’**inspiration visuelle** (ArtStation, Pinterest, Designspiration, Dribbble),  
+- l’**observation des pratiques professionnelles** (Behance, The Dots),  
+- la **projection vers la mode et la création numérique du futur** (SYKY, Figma Community).
 
 ### News & blogs spécialisés
-- Blogs et sites sur la 3D/CGI (techniques, outils, workflows)
-- Publications fashion-tech et digital fashion
-- Médias spécialisés sur le design de produits et accessoires
+- Blogs et sites sur la 3D/CGI (techniques, outils, workflows)  
+- Publications fashion-tech et digital fashion  
+- Médias spécialisés sur le design de produits et accessoires  
 
 ### Newsletters ciblées
-- Design
-- CGI et effets visuels
-- Digital fashion et technologies wearable
-- Nouvelles pratiques créatives
+- Design  
+- CGI et effets visuels  
+- Digital fashion et technologies wearable  
+- Nouvelles pratiques créatives  
 
 ### Flux RSS et réseaux sociaux
-- Flux RSS de blogs techniques et créatifs
-- Listes thématiques sur X (Twitter) : artistes 3D, studios, chercheurs en CGI
-- Chaînes YouTube pour les tutoriels et conférences
+- Flux RSS de blogs techniques et créatifs  
+- Listes thématiques sur X (Twitter) : artistes 3D, studios, chercheurs en CGI  
+- Chaînes YouTube pour les tutoriels et conférences  
 
-## 2. Système de tri
+---
 
-### Collecte centralisée
-Tout ce que je trouve d'intéressant est capturé dans un **système unique** :
-- Outil : Notion / Obsidian / dossier Markdown dans ce repo GitHub
-- Principe : une entrée = une source + une note rapide
+## 2. Réalité de ma méthode de collecte
 
-### Filtres de sélection
-Avant d'archiver définitivement une ressource, je vérifie qu'elle répond à au moins un de ces critères :
+Pour cette veille, j’ai principalement utilisé **ChatGPT comme outil d’exploration**.  
+Je lui ai demandé de me proposer des articles, des plateformes et des ressources en lien avec mon domaine.
 
-**Domaine**
-- Est-ce lié à la 3D, CGI, character design, wearable fashion ou branding ?
+ChatGPT agit comme un **moteur de recherche guidé** :
+- il me propose plusieurs pistes,
+- je choisis celles qui m’intéressent réellement,
+- je lis les contenus,
+- et je ne conserve que ceux qui résonnent avec mon univers créatif et mes objectifs.
 
-**Type de ressource**
-- Article / étude / white paper
-- Portfolio d'artiste / projet de studio
-- Campagne marketing / lancement produit
-- Outil / logiciel / pipeline technique
+L’outil m’aide à explorer plus vite, mais le tri reste entièrement personnel.
 
-**Niveau de priorité**
-- **À lire immédiatement** : ressource très pertinente pour un projet en cours
-- **À approfondir** : contenu dense qui nécessite du temps et de l'attention
-- **À archiver** : ressource intéressante mais pas urgente
+---
 
-## 3. Classement : ma bibliothèque personnelle
+## 3. Comment je fais mon tri concrètement
 
-Toutes les ressources validées sont organisées dans une structure pérenne, hébergée dans ce site statique.
+Quand plusieurs ressources me sont proposées :
+- je regarde le sujet,
+- je vérifie la source,
+- je parcours le contenu,
+- je garde uniquement ce qui m’apporte :
+  - une inspiration visuelle,
+  - une compréhension technique,
+  - ou une vision nouvelle sur la mode numérique et la 3D.
 
-### Structure des dossiers
+Mes vrais critères sont donc :
+- Est-ce que ça m’inspire ?
+- Est-ce que ça correspond à l’univers vers lequel je veux évoluer ?
+- Est-ce que j’apprends quelque chose ?
 
-#### `/articles/`
-Synthèses de veille, analyses de tendances, comptes-rendus de lectures.
+---
 
-Chaque fiche contient :
-- **Titre de la ressource**
-- **Source** (auteur, date, lien)
-- **Synthèse** (5 lignes maximum)
-- **Tags** (ex : `#3D`, `#wearable`, `#character-design`)
-- **Lien avec compétences 2025** (créativité, tech design, analytical thinking...)
-- **Utilisation future** : comment cette ressource m'aide a avancer vers mon orientation en media design (HEAD), notamment sur la 3D et le CGI que je veux approfondir
+## 4. Organisation simple des ressources
 
-#### `/outils/`
-Fiches sur les logiciels, frameworks, stacks techniques, workflows.
+Je garde volontairement une organisation légère.  
+Chaque ressource conservée comporte :
 
-Contenu type :
-- Nom de l'outil
-- Cas d'usage
-- Avantages / limites
-- Ressources pour apprendre
+- **Titre**
+- **Lien**
+- **Source (si disponible)**
+- **Résumé court**
+- **Tags** (ex : `#3D`, `#CGI`, `#wearable`, `#branding`)
+- **Pourquoi je la garde** : ce qu’elle m’apporte (esthétique, technique, conceptuel)
 
-#### `/inspiration/`
-Cas créatifs, campagnes remarquables, moodboards, références visuelles.
+---
 
-Contenu type :
-- Capture visuelle ou lien
-- Contexte (marque, artiste, projet)
-- Ce qui rend ce cas intéressant
-- Comment je peux m'en inspirer
-
-### Système de tags
-
-Chaque ressource est taguée selon plusieurs axes :
+## 5. Système de tags
 
 **Discipline**
 - `#3D`, `#CGI`, `#character-design`, `#illustration`, `#wearable`, `#branding`
@@ -106,25 +111,25 @@ Chaque ressource est taguée selon plusieurs axes :
 **Thématique**
 - `#tendances`, `#workflow`, `#marketing`, `#storytelling`
 
-**Compétence 2025**
-- `#creativite`, `#analytical-thinking`, `#tech-design`, `#critical-thinking`
+---
 
 ## Pourquoi ce système est durable
 
-Ce système d'écoute est pensé pour **continuer après le cours** :
+Même s’il est simple, ce système est cohérent avec ma réalité :
 
-1. **Simplicité** : pas de dépendance à des outils complexes ou payants
-2. **Portabilité** : tout est stocké en Markdown, lisible dans 20 ans
-3. **Versionnement** : hébergé sur GitHub, chaque modification est tracée
-4. **Évolutivité** : facile d'ajouter de nouvelles catégories ou tags
-5. **Autonomie** : je suis propriétaire de mes données et de mon infrastructure
+1. **Honnête** : il correspond vraiment à ma manière de travailler  
+2. **Flexible** : je peux le structurer davantage plus tard  
+3. **Créatif** : il laisse de la place à l’intuition et à la sensibilité  
+4. **Moderne** : il assume l’usage de l’IA comme outil de veille  
+
+---
 
 ## Conclusion
 
-Une veille efficace n'est pas une question de volume, mais de **méthode** :
-- Écouter les bonnes sources
-- Filtrer avec rigueur
-- Classer pour retrouver
-- Synthétiser pour mémoriser
+Ma veille n’est pas une veille automatisée ou industrielle.  
+C’est une veille **assistée par l’IA**, mais filtrée par un regard humain.
 
-Ce système me permet de transformer le flux constant d'informations en **connaissances structurées et réutilisables**.
+ChatGPT m’aide à explorer.  
+Mais ce sont mes goûts, ma sensibilité et mon orientation créative qui décident de ce que je garde.
+
+C’est cette combinaison entre outil technologique et choix personnel qui fait la valeur de mon système d’écoute.
