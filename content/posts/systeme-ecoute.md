@@ -73,7 +73,7 @@ Chaque fiche contient :
 - **Synthèse** (5 lignes maximum)
 - **Tags** (ex : `#3D`, `#wearable`, `#character-design`)
 - **Lien avec compétences 2025** (créativité, tech design, analytical thinking...)
-- **Utilisation future** : dans quel projet je peux réutiliser cette ressource
+- **Utilisation future** : comment cette ressource m'aide a avancer vers mon orientation en media design (HEAD), notamment sur la 3D et le CGI que je veux approfondir
 
 #### `/outils/`
 Fiches sur les logiciels, frameworks, stacks techniques, workflows.

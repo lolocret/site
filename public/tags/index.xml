@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lolocret</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/site/tags/</link>
     <description>Recent content in Tags on Lolocret</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligence-Artificielle</title>
-      <link>http://localhost:1313/tags/intelligence-artificielle/</link>
+      <link>http://localhost:1313/site/tags/intelligence-artificielle/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intelligence-artificielle/</guid>
+      <guid>http://localhost:1313/site/tags/intelligence-artificielle/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>http://localhost:1313/site/tags/llm/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>http://localhost:1313/site/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Méthodologie</title>
-      <link>http://localhost:1313/tags/m%C3%A9thodologie/</link>
+      <link>http://localhost:1313/site/tags/m%C3%A9thodologie/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/m%C3%A9thodologie/</guid>
+      <guid>http://localhost:1313/site/tags/m%C3%A9thodologie/</guid>
       <description></description>
     </item>
     <item>
       <title>Organisation</title>
-      <link>http://localhost:1313/tags/organisation/</link>
+      <link>http://localhost:1313/site/tags/organisation/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/organisation/</guid>
+      <guid>http://localhost:1313/site/tags/organisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Veille</title>
-      <link>http://localhost:1313/tags/veille/</link>
+      <link>http://localhost:1313/site/tags/veille/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/veille/</guid>
+      <guid>http://localhost:1313/site/tags/veille/</guid>
       <description></description>
     </item>
     <item>
       <title>3D</title>
-      <link>http://localhost:1313/tags/3d/</link>
+      <link>http://localhost:1313/site/tags/3d/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/3d/</guid>
+      <guid>http://localhost:1313/site/tags/3d/</guid>
       <description></description>
     </item>
     <item>
       <title>CGI</title>
-      <link>http://localhost:1313/tags/cgi/</link>
+      <link>http://localhost:1313/site/tags/cgi/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cgi/</guid>
+      <guid>http://localhost:1313/site/tags/cgi/</guid>
       <description></description>
     </item>
     <item>
       <title>Character-Design</title>
-      <link>http://localhost:1313/tags/character-design/</link>
+      <link>http://localhost:1313/site/tags/character-design/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/character-design/</guid>
+      <guid>http://localhost:1313/site/tags/character-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Wearable</title>
-      <link>http://localhost:1313/tags/wearable/</link>
+      <link>http://localhost:1313/site/tags/wearable/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wearable/</guid>
+      <guid>http://localhost:1313/site/tags/wearable/</guid>
       <description></description>
     </item>
   </channel>

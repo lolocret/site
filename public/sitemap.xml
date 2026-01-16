@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/site/about/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/veille/</loc>
+    <loc>http://localhost:1313/site/veille/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/intelligence-artificielle/</loc>
+    <loc>http://localhost:1313/site/tags/intelligence-artificielle/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llm/</loc>
+    <loc>http://localhost:1313/site/tags/llm/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/site/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/m%C3%A9thodologie/</loc>
+    <loc>http://localhost:1313/site/tags/m%C3%A9thodologie/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/systeme-ecoute/</loc>
+    <loc>http://localhost:1313/site/posts/systeme-ecoute/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/organisation/</loc>
+    <loc>http://localhost:1313/site/tags/organisation/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/site/posts/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/site/tags/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/llm-veille-bonnes-pratiques/</loc>
+    <loc>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/veille/</loc>
+    <loc>http://localhost:1313/site/tags/veille/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/3d/</loc>
+    <loc>http://localhost:1313/site/tags/3d/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cgi/</loc>
+    <loc>http://localhost:1313/site/tags/cgi/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/character-design/</loc>
+    <loc>http://localhost:1313/site/tags/character-design/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/veille/article-veille-02-template/</loc>
+    <loc>http://localhost:1313/site/veille/article-veille-02-template/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wearable/</loc>
+    <loc>http://localhost:1313/site/tags/wearable/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/veille/article-veille-03-template/</loc>
+    <loc>http://localhost:1313/site/veille/article-veille-03-template/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/veille/article-veille-01-template/</loc>
+    <loc>http://localhost:1313/site/veille/article-veille-01-template/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/site/categories/</loc>
   </url>
 </urlset>
