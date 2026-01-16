@@ -14,7 +14,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 	[params.author]
 		name = 'Lorie Crettex'
 		bio = 'Veille créative en 3D, CGI, character design et mode wearable'
-		avatar = '/images/avatar.png'
+		avatar = 'images/avatar.png'
 		twitter = ''
 
 [pagination]
