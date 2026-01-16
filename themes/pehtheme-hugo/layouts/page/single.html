@@ -3,10 +3,38 @@
 <div class="py-14">
 
 	<header class="not-prose mb-8">
-		<h1 class="text-4xl font-bold">{{ .Title }}</h1>
+		<h1 class="text-4xl font-bold leading-normal">{{ .Title }}</h1>
 		{{- with .Params.description }}
 		<p class="mt-4 text-lg text-zinc-600">{{ . }}</p>
 		{{- end }}
+
+		<div id="writer" class="mt-6 flex items-center space-x-4">
+			{{- $author := .Site.Params.author -}}
+			{{- $authorName := "" -}}
+			{{- $authorAvatar := "" -}}
+			{{- with $author }}
+				{{- $authorName = .name -}}
+				{{- $authorAvatar = .avatar -}}
+			{{- end }}
+
+			{{- if $authorAvatar }}
+			<img class="w-12 h-12 bg-black rounded-full" src="{{ $authorAvatar | absURL }}" alt="{{ $authorName }} avatar">
+			{{- end }}
+			
+			<ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+				{{- if $authorName }}
+				<li class="font-semibold my-2">{{ $authorName }}</li>
+				{{- end }}
+				<li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+					{{- $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" -}}
+					{{- $dateHuman := .Date | time.Format ":date_long" -}}
+					<time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+				</li>
+				<li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+					{{ .ReadingTime }} min read
+				</li>
+			</ul>
+		</div>
 	</header>
 
 	{{- with .Params.image }}
