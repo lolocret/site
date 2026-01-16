@@ -2,6 +2,7 @@
 title: "À propos & domaine"
 date: 2026-01-15
 image: images/lolo.png
+description: "Presentation du domaine de veille, de mon ikigai, des taxonomies et du choix du SSG."
 draft: false
 ---
 
