@@ -57,10 +57,22 @@
     });
   };
 
+  const getIndexUrl = () => {
+    const base = form.getAttribute("data-baseurl");
+    if (base) {
+      try {
+        return new URL("index.json", base).toString();
+      } catch {
+        return "/index.json";
+      }
+    }
+    return "/index.json";
+  };
+
   const loadIndex = async () => {
     if (ready) return;
     try {
-      const res = await fetch("/index.json", { cache: "no-store" });
+      const res = await fetch(getIndexUrl(), { cache: "no-store" });
       if (!res.ok) return;
       pages = await res.json();
       ready = true;
