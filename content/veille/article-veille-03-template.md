@@ -11,7 +11,7 @@ tags: ["veille", "3D", "CGI", "character-design", "wearable", "workflow", "tenda
 **Titre** : "How Is 3D Used in Fashion to Transform the Industry?"  
 **Auteur** : Style3D Blog  
 **Date** : non precisee (consulte en 2025)  
-**Lien** : https://www.style3d.com/blog/how-is-3d-used-in-fashion-to-transform-the-industry/?utm_source=chatgpt.com
+**Lien** : https://www.style3d.com/blog/how-is-3d-used-in-fashion-to-transform-the-industry
 
 ### Résumé 
 L'article explique comment les technologies 3D s'integrent dans le design de mode.

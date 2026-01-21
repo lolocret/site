@@ -11,7 +11,7 @@ tags: ["veille", "3D", "CGI", "character-design", "wearable", "rendering", "pipe
 **Titre** : "The use of CGI in the fashion industry"  
 **Auteur** : Denys Borozenets (CEO, GENENSE)  
 **Date** : 12 septembre 2025  
-**Lien** : https://www.genense.com/blog/the-use-of-cgi-in-the-fashion-industry?utm_source=chatgpt.com
+**Lien** : https://www.genense.com/blog/the-use-of-cgi-in-the-fashion-industry
 
 ### Résumé 
 L'article analyse comment le CGI transforme la mode via des visuels photorealistes et des vetements numeriques.
