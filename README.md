@@ -18,7 +18,7 @@ Site statique de veille créative sur la 3D, CGI, character design et mode weara
 ### Sections de contenu
 
 #### `/content/veille/`
-Articles de veille structurés avec templates.
+Articles de veille structurés.
 
 **Structure de chaque article** :
 1. Contexte & source (titre, auteur, date, lien, résumé)
@@ -31,24 +31,6 @@ Articles de veille structurés avec templates.
 - `article-veille-01-template.md` : Template article 1
 - `article-veille-02-template.md` : Template article 2
 - `article-veille-03-template.md` : Template article 3
-
-#### `/content/outils/`
-Fiches techniques sur les logiciels, frameworks et workflows.
-
-**Contenu type** :
-- Nom de l'outil
-- Cas d'usage
-- Avantages & limites
-- Ressources pour apprendre
-
-#### `/content/inspiration/`
-Cas créatifs, campagnes, moodboards et références visuelles.
-
-**Contenu type** :
-- Visuel ou lien
-- Contexte (marque, artiste, projet)
-- Ce qui rend ce cas intéressant
-- Comment m'en inspirer
 
 ## Taxonomie (tags)
 
@@ -63,22 +45,6 @@ Cas créatifs, campagnes, moodboards et références visuelles.
 
 ### Compétences 2025
 `#creativite`, `#analytical-thinking`, `#tech-design`, `#critical-thinking`
-
-## Lancement du site
-
-### Développement local
-```bash
-hugo server
-```
-
-Le site sera accessible sur http://localhost:1313
-
-### Build de production
-```bash
-hugo
-```
-
-Les fichiers statiques sont générés dans le dossier `/public/`
 
 ## Pourquoi Hugo et un site statique ?
 
