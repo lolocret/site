@@ -5,13 +5,22 @@
     <loc>http://localhost:1313/site/about/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/site/tags/analytical-thinking/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/apprentissage/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/site/veille/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site/tags/intelligence-artificielle/</loc>
+    <loc>http://localhost:1313/site/tags/blender/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site/tags/llm/</loc>
+    <loc>http://localhost:1313/site/tags/critical-thinking/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/ia/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/site/</loc>
@@ -26,10 +35,19 @@
     <loc>http://localhost:1313/site/tags/organisation/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/site/tags/pipeline/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/site/posts/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/site/tags/rendering/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/site/tags/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/unreal-engine/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</loc>
@@ -47,6 +65,9 @@
     <loc>http://localhost:1313/site/tags/character-design/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/site/tags/marketing/</loc>
+    <lastmod>2025-09-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/site/veille/article-veille-02-template/</loc>
     <lastmod>2025-09-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,7 +77,25 @@
     <loc>http://localhost:1313/site/veille/article-veille-03-template/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/site/tags/tendances/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/workflow/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/branding/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/creativite/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/site/veille/article-veille-01-template/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/illustration/</loc>
+    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site/tags/storytelling/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/site/categories/</loc>

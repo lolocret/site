@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on Lolocret</title>
+    <link>http://localhost:1313/site/tags/storytelling/</link>
+    <description>Recent content in Storytelling on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>G.URL Magazine Issue 02: Exclusive Interview Preview with Gabrielle Rosenstein - Article de veille</title>
+      <link>http://localhost:1313/site/veille/article-veille-01-template/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/veille/article-veille-01-template/</guid>
+      <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre&lt;/strong&gt; : &amp;ldquo;G.URL Magazine Issue 02: Exclusive Interview Preview with Gabrielle Rosenstein&amp;rdquo;&lt;br&gt;&#xA;&lt;strong&gt;Auteur&lt;/strong&gt; : Jenny O&amp;rsquo;Connor&lt;br&gt;&#xA;&lt;strong&gt;Date&lt;/strong&gt; : 3 decembre 2023&lt;br&gt;&#xA;&lt;strong&gt;Lien&lt;/strong&gt; : &lt;a href=&#34;https://gurlworld.com/g-url-magazine-issue-02-exclusive-interview-preview-with-gabrielle-rosenstein/&#34;&gt;https://gurlworld.com/g-url-magazine-issue-02-exclusive-interview-preview-with-gabrielle-rosenstein/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pipeline on Lolocret</title>
+    <link>http://localhost:1313/site/tags/pipeline/</link>
+    <description>Recent content in Pipeline on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/tags/pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système d&#39;écoute : Comment je structure ma veille</title>
+      <link>http://localhost:1313/site/posts/systeme-ecoute/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/posts/systeme-ecoute/</guid>
+      <description>&lt;p&gt;Cette page décrit concrètement &lt;strong&gt;comment j&amp;rsquo;écoute le monde&lt;/strong&gt; dans mon domaine&lt;br&gt;&#xA;(3D, CGI, character design, mode wearable).&lt;/p&gt;&#xA;&lt;p&gt;Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The use of CGI in the fashion industry - Article de veille</title>
+      <link>http://localhost:1313/site/veille/article-veille-02-template/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/veille/article-veille-02-template/</guid>
+      <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre&lt;/strong&gt; : &amp;ldquo;The use of CGI in the fashion industry&amp;rdquo;&lt;br&gt;&#xA;&lt;strong&gt;Auteur&lt;/strong&gt; : Denys Borozenets (CEO, GENENSE)&lt;br&gt;&#xA;&lt;strong&gt;Date&lt;/strong&gt; : 12 septembre 2025&lt;br&gt;&#xA;&lt;strong&gt;Lien&lt;/strong&gt; : &lt;a href=&#34;https://www.genense.com/blog/the-use-of-cgi-in-the-fashion-industry&#34;&gt;https://www.genense.com/blog/the-use-of-cgi-in-the-fashion-industry&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

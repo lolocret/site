@@ -13,14 +13,14 @@
       <link>http://localhost:1313/site/posts/systeme-ecoute/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/site/posts/systeme-ecoute/</guid>
-      <description>&lt;p&gt;Cette page décrit concrètement &lt;strong&gt;comment j&amp;rsquo;écoute le monde&lt;/strong&gt; sur mon domaine (3D, CGI, character design, mode wearable). C&amp;rsquo;est un système pensé pour durer et évoluer au-delà de ce cours.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cette page décrit concrètement &lt;strong&gt;comment j&amp;rsquo;écoute le monde&lt;/strong&gt; dans mon domaine&lt;br&gt;&#xA;(3D, CGI, character design, mode wearable).&lt;/p&gt;&#xA;&lt;p&gt;Il ne s’agit pas d’un système industriel ou automatisé, mais d’une veille personnelle, assistée par l’IA, guidée par mes intérêts créatifs et mes choix.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Utilisation des LLM pour la veille : comment ne pas se faire piéger</title>
+      <title>Utiliser les LLM pour apprendre sans perdre ses compétences</title>
       <link>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</guid>
-      <description>&lt;h2 id=&#34;quest-ce-quun-llm-&#34;&gt;Qu&amp;rsquo;est-ce qu&amp;rsquo;un LLM ?&lt;/h2&gt;&#xA;&lt;p&gt;Un &lt;strong&gt;Large Language Model&lt;/strong&gt; (LLM) comme ChatGPT, Claude ou Gemini est un modèle d&amp;rsquo;intelligence artificielle entraîné sur de grands corpus de textes pour produire des réponses probabilistes.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Aujourd’hui, les LLM comme ChatGPT, Claude ou Gemini sont devenus des outils très présents dans mon processus d’apprentissage.&lt;/p&gt;&#xA;&lt;p&gt;Ils me permettent d’aller plus vite, de mieux formuler mes idées et d’explorer des sujets que je ne maîtriserais pas seule au départ.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

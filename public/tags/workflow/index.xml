@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflow on Lolocret</title>
+    <link>http://localhost:1313/site/tags/workflow/</link>
+    <description>Recent content in Workflow on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Is 3D Used in Fashion to Transform the Industry? - Article de veille</title>
+      <link>http://localhost:1313/site/veille/article-veille-03-template/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/veille/article-veille-03-template/</guid>
+      <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre&lt;/strong&gt; : &amp;ldquo;How Is 3D Used in Fashion to Transform the Industry?&amp;rdquo;&lt;br&gt;&#xA;&lt;strong&gt;Auteur&lt;/strong&gt; : Style3D Blog&lt;br&gt;&#xA;&lt;strong&gt;Date&lt;/strong&gt; : non precisee (consulte en 2025)&lt;br&gt;&#xA;&lt;strong&gt;Lien&lt;/strong&gt; : &lt;a href=&#34;https://www.style3d.com/blog/how-is-3d-used-in-fashion-to-transform-the-industry&#34;&gt;https://www.style3d.com/blog/how-is-3d-used-in-fashion-to-transform-the-industry&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

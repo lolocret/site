@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical-Thinking on Lolocret</title>
+    <link>http://localhost:1313/site/tags/critical-thinking/</link>
+    <description>Recent content in Critical-Thinking on Lolocret</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site/tags/critical-thinking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utiliser les LLM pour apprendre sans perdre ses compétences</title>
+      <link>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/posts/llm-veille-bonnes-pratiques/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Aujourd’hui, les LLM comme ChatGPT, Claude ou Gemini sont devenus des outils très présents dans mon processus d’apprentissage.&lt;/p&gt;&#xA;&lt;p&gt;Ils me permettent d’aller plus vite, de mieux formuler mes idées et d’explorer des sujets que je ne maîtriserais pas seule au départ.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

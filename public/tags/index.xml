@@ -9,6 +9,34 @@
     <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Analytical-Thinking</title>
+      <link>http://localhost:1313/site/tags/analytical-thinking/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/analytical-thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apprentissage</title>
+      <link>http://localhost:1313/site/tags/apprentissage/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/apprentissage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blender</title>
+      <link>http://localhost:1313/site/tags/blender/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/blender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critical-Thinking</title>
+      <link>http://localhost:1313/site/tags/critical-thinking/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/critical-thinking/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>IA</title>
       <link>http://localhost:1313/site/tags/ia/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
@@ -27,6 +55,27 @@
       <link>http://localhost:1313/site/tags/organisation/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/site/tags/organisation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipeline</title>
+      <link>http://localhost:1313/site/tags/pipeline/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendering</title>
+      <link>http://localhost:1313/site/tags/rendering/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unreal-Engine</title>
+      <link>http://localhost:1313/site/tags/unreal-engine/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/unreal-engine/</guid>
       <description></description>
     </item>
     <item>
@@ -58,6 +107,13 @@
       <description></description>
     </item>
     <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/site/tags/marketing/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Wearable</title>
       <link>http://localhost:1313/site/tags/wearable/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
@@ -65,38 +121,45 @@
       <description></description>
     </item>
     <item>
-      <title>Int</title>
-      <link>http://localhost:1313/site/tags/int/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site/tags/int/</guid>
+      <title>Tendances</title>
+      <link>http://localhost:1313/site/tags/tendances/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/tendances/</guid>
       <description></description>
     </item>
     <item>
-      <title>Inte</title>
-      <link>http://localhost:1313/site/tags/inte/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site/tags/inte/</guid>
+      <title>Workflow</title>
+      <link>http://localhost:1313/site/tags/workflow/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
-      <title>Intelligence</title>
-      <link>http://localhost:1313/site/tags/intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site/tags/intelligence/</guid>
+      <title>Branding</title>
+      <link>http://localhost:1313/site/tags/branding/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/branding/</guid>
       <description></description>
     </item>
     <item>
-      <title>Intelligence-Artificielle</title>
-      <link>http://localhost:1313/site/tags/intelligence-artificielle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site/tags/intelligence-artificielle/</guid>
+      <title>Creativite</title>
+      <link>http://localhost:1313/site/tags/creativite/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/creativite/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLM</title>
-      <link>http://localhost:1313/site/tags/llm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site/tags/llm/</guid>
+      <title>Illustration</title>
+      <link>http://localhost:1313/site/tags/illustration/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/illustration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storytelling</title>
+      <link>http://localhost:1313/site/tags/storytelling/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site/tags/storytelling/</guid>
       <description></description>
     </item>
   </channel>
